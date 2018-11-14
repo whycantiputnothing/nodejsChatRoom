@@ -4,4 +4,4 @@ npm install
 
 node app.js
 
-localhost:3000
+open http://localhost:3000
