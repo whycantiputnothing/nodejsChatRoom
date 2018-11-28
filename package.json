@@ -3,13 +3,22 @@
   "version": "0.0.0",
   "description": "A simple chat client using socket.io",
   "main": "index.js",
-  "author": "Grant Timmerman",
-  "private": true,
-  "license": "BSD",
   "dependencies": {
-    "express": "4.13.4"
+    "express": "4.13.4",
+    "socket.io": "2.1.1"
   },
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brandon Nguyen"
+    },
+    {
+      "name": "Maya Lake"
+    },
+    {
+      "name": "Kevin Nguyen"
+    }
+  ]
 }
